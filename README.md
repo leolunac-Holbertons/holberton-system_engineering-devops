@@ -1,7 +1,4 @@
+Holberton-system_engineering-devops
 
-======================================
-holberton-system_engineering-devops
-=======================================
-
-Shell, Basic
+    Shell, Basic
 

@@ -1,24 +1,17 @@
-man(2)                                 eniac man page                             man(2)
-
-NAME
-       eniac - the first electronic device general-purpose digital computer.
-
-SYNOPSIS
-       eniac
-
-DESCRIPTION
-       Eniac was Turing-complete, and able to solve "a large class of numerical problems" through reprogramming.
-
-OPTIONS
-       eniac does not take any options.
-
-SEE ALSO
-       ENIAC could be programmed to perform complex sequences of operations(2), including loops(2), branches(2), and subroutines(2).
-
-BUGS
-       No known bugs.
-
-AUTHOR
-       University of Pennsylvania.
-
-0.32                                                                     10 December 1945     
+.TH man 2 "11 Nov 2020" "0.32" "holberton man page"
+.SH NAME
+.B holberton
+- become a full-stack software engineer.
+.SH SYNOPSIS
+holberton 
+.SH DESCRIPTION
+Holberton School is a project-based alternative to college for the next generation of software engineers.
+.SH OPTIONS
+.B holberton
+does not take any options. However, you can supply studentname.
+.SH SEE ALSO
+.ENIAC
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Leopoldo Luna

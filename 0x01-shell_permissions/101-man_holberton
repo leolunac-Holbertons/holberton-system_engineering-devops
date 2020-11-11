@@ -1,17 +1,18 @@
-.TH man 2 "11 Nov 2020" "0.32" "holberton man page"
+.TH man 2 "11 Nov 2020" "0.01" "holberton man page"
+v 2020" "0.01" "holberton man page"
 .SH NAME
 .B holberton
 - become a full-stack software engineer.
 .SH SYNOPSIS
-holberton 
+holberton [STUDENTNAME]
 .SH DESCRIPTION
 Holberton School is a project-based alternative to college for the next generation of software engineers.
 .SH OPTIONS
 .B holberton
 does not take any options. However, you can supply studentname.
 .SH SEE ALSO
-.ENIAC
+.ENIAC could be programed to perform 
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Leopoldo Luna
+Leopoldo Luna.
